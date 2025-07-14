@@ -3,3 +3,10 @@
 /Backend/downloads
 /Backend/uploads
 /Backend/package-lock.json
+/kisan-app-frontend/node_modules
+/kisan-app-frontend/.env
+/kisan-app-frontend/.next
+/kisan-app-frontend/.vscode
+/kisan-app-frontend/.git
+/kisan-app-frontend/.DS_Store
+/kisan-app-frontend/.env.local

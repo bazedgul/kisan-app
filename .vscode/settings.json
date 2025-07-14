@@ -3,6 +3,8 @@
         "dotenv",
         "easypaisa",
         "jazzcash",
+        "kisan",
+        "languagedetector",
         "mandi"
     ]
 }
